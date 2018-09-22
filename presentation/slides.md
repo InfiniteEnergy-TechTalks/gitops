@@ -49,7 +49,7 @@ Git is today's de facto version control tool <!-- .element: class="fragment" -->
 
 --
 
-![GitOps Flow](https://lh3.googleusercontent.com/Wyh241CIsJA3zGzzlx8M7Np92b22KJIRde0TvnFGuA2G4opetTOcdmQHOEja1tNEyzlWq9gQJzBSLtWGr8D18hR2zm2Y2nzeyVbVkUh3IV2dLSMmGCSOwc5pympw8Eqp6eiq4tMd)
+![GitOps Pipeline](https://lh3.googleusercontent.com/Wyh241CIsJA3zGzzlx8M7Np92b22KJIRde0TvnFGuA2G4opetTOcdmQHOEja1tNEyzlWq9gQJzBSLtWGr8D18hR2zm2Y2nzeyVbVkUh3IV2dLSMmGCSOwc5pympw8Eqp6eiq4tMd)
 
 ---
 
@@ -108,7 +108,7 @@ And a lot to learn
 
 ## How does it work?
 
-![Peewee Machine](https://img.buzzfeed.com/buzzfeed-static/static/2014-08/10/21/enhanced/webdr02/anigif_enhanced-16366-1407719190-1.gif)
+![Peewee Machine](https://i.imgur.com/wmBkvIo.gif)
 
 --
 
@@ -118,7 +118,7 @@ Our use case is centered around [Kubernetes]
 
 --
 
-![GitOps Pipeline Example](https://lh3.googleusercontent.com/37dEz1igq1oGbm80e1HPSfKvH4macg4r0Ft21wH56tCJ7bClqgBm_kpD6NtNWlRs3V-gShPJbbIeeg5Ml07s8mZJ-xiXDwLWCpOU4AufXyPXfyCt-Hj98za68p41Q-jc0Yqk9usd)
+![GitOps Pipeline](https://lh3.googleusercontent.com/Wyh241CIsJA3zGzzlx8M7Np92b22KJIRde0TvnFGuA2G4opetTOcdmQHOEja1tNEyzlWq9gQJzBSLtWGr8D18hR2zm2Y2nzeyVbVkUh3IV2dLSMmGCSOwc5pympw8Eqp6eiq4tMd)
 
 --
 
@@ -245,7 +245,7 @@ data:
 
 --
 
-<!-- .slide: data-background="https://i.ytimg.com/vi/KEkrWRHCDQU/maxresdefault.jpg" data-background-opacity="0.5" -->
+<!-- .slide: data-background="https://i.imgur.com/u9GqzdB.jpg" data-background-opacity="0.5" -->
 
 ```shell
 $ echo -n YWJ3aGl0bGVy | base64 -D
